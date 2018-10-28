@@ -10,7 +10,7 @@ Momit      | [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-o
 Momocs      | [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing) | [![Travis-CI Build Status](https://travis-ci.org/MomX/Momocs.svg?branch=master)](https://travis-ci.org/MomX/Momocs) | [![CRAN Status Badge](http://www.r-pkg.org/badges/version/Momocs)](http://cran.r-project.org/package=Momocs) | [MomX.github.io/Momocs](http://momx.github.io/Momocs)
 Momecs      | [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | [![Travis build status](https://travis-ci.org/MomX/Momecs.svg?branch=master)](https://travis-ci.org/MomX/Momecs) | [![CRAN status](https://www.r-pkg.org/badges/version/Momecs)](https://cran.r-project.org/package=Momecs) | [MomX.github.io/Momecs](http://momx.github.io/Momecs)
 
-Other protypic MomX packages follows:
+Other prototypic MomX packages follows:
 
 Package     |  Lifecycle    |  Travis    |  CRAN      | Website
 ------------|---------------|------------|------------| ---------------
