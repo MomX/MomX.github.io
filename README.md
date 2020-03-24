@@ -1,7 +1,7 @@
 # MomX.github.io
 
 You're probably looking for [MomX/Momx](http://momx.github.io/MomX/) website?
-
+<!--
 Package     |  Lifecycle    |  Travis    |  CRAN      | Website
 ------------|---------------|------------|------------| ---------------
 MomX        | [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | [![Travis build status](https://travis-ci.org/MomX/MomX.svg?branch=master)](https://travis-ci.org/MomX/MomX) | [![CRAN status](https://www.r-pkg.org/badges/version/MomX)](https://cran.r-project.org/package=MomX) | [MomX.github.io/MomX](http://momx.github.io/MomX)
@@ -16,3 +16,6 @@ Package     |  Lifecycle    |  Travis    |  CRAN      | Website
 ------------|---------------|------------|------------| ---------------
 Momfarm     | [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)  | [![Travis build status](https://travis-ci.org/MomX/Momfarm.svg?branch=master)](https://travis-ci.org/MomX/Momfarm) | [![CRAN status](https://www.r-pkg.org/badges/version/Momfarm)](https://cran.r-project.org/package=Momfarm) | [MomX.github.io/Momfarm](http://momx.github.io/Momfarm)
 Momoshop    |  [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)  | soon | soon | soon 
+
+-->
+
