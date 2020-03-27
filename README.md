@@ -10,7 +10,7 @@ You're probably looking for [MomX/Momx](http://momx.github.io/MomX/) website?
 | Momocs2  | [![Travis build status](https://travis-ci.org/MomX/Momocs2.svg?branch=master)](https://travis-ci.org/MomX/Momocs2) |
 | Momit    | [![Travis build status](https://travis-ci.org/MomX/Momit.svg?branch=master)](https://travis-ci.org/MomX/Momit) |
 | Momacs    | [![Travis build status](https://travis-ci.org/MomX/Momacs.svg?branch=master)](https://travis-ci.org/MomX/Momacs) |
-| Momit    | [![Travis build status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata) |
+| Momdata    | [![Travis build status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata) |
 
 
 More on [Travis MomX dashboard](https://travis-ci.org/github/MomX)
