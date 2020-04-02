@@ -20,4 +20,4 @@
 | Momdata  | [gh](https://github.com/MomX/Momdata)  | [![Travis build status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata)   | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momdata.svg)](https://github.com/MomX/Momdata/commits/master) |
 
 
-> >>> More on [Travis MomX dashboard](https://travis-ci.org/github/MomX)
+> More on [Travis MomX dashboard](https://travis-ci.org/github/MomX)
