@@ -15,7 +15,7 @@
 
 | Momocs2  | [gh](https://github.com/MomX/Momocs2)  | [![Travis build status](https://travis-ci.org/MomX/Momocs2.svg?branch=master)](https://travis-ci.org/MomX/Momocs2)   | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momocs2.svg)](https://github.com/MomX/Momocs2/commits/master) |
 
-| Momstats | [gh](https://github.com/MomX/Momstats) | [![Travis build status](https://travis-ci.org/MomX/Momstats.svg?branch=master)](https://travis-ci.org/MomX/Momstats) | [![Last commit](https://img.shields.io/github/last-commit/MomX/Mommstats.svg)](https://github.com/MomX/Momstats/commits/master) |
+| Momstats | [gh](https://github.com/MomX/Momstats) | [![Travis build status](https://travis-ci.org/MomX/Momstats.svg?branch=master)](https://travis-ci.org/MomX/Momstats) | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momstats.svg)](https://github.com/MomX/Momstats/commits/master) |
 
 | Momdata  | [gh](https://github.com/MomX/Momdata)  | [![Travis build status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata)   | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momdata.svg)](https://github.com/MomX/Momdata/commits/master) |
 
