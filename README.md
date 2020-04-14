@@ -1,7 +1,10 @@
 # MomX.github.io
 
-* This page serves as a dev dashboard. It will be MomX landing page when it will be ready.
-* You're probably looking for [MomX/Momx](http://momx.github.io/MomX/) website?
+* This page will be MomX landing page when it will be ready. For now it's a dev dashboard.
+
+* You can have a look to: [MomX/Momx](http://momx.github.io/MomX/)
+
+* Momocs is retiring, but still alive: [https://momx.github.io/Momocs]()
 
 ### State of the union
 
