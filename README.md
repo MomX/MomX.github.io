@@ -2,20 +2,21 @@
 
 * This page will be MomX landing page when it will be ready. For now it's a dev dashboard.
 
-* You can have a look to: [MomX/Momx](http://momx.github.io/MomX/)
-
 * Momocs is retiring, but still alive: [https://momx.github.io/Momocs]()
 
-### State of the union
+### On GitHub
 
-| pkg      | website        | github                 | travis | last commit | code coverage |
-| -------- | -------------- | ---------------------- | ------ | ----------- | ------------- | 
-| MomX     | [go](https://momx.github.io/MomX/)   | [go](https://github.com/MomX/MomX)     | [![Travis build status](https://travis-ci.org/MomX/MomX.svg?branch=master)](https://travis-ci.org/MomX/MomX)         | [![Last commit](https://img.shields.io/github/last-commit/MomX/MomX.svg)](https://github.com/MomX/MomX/commits/master) | [![Codecov test coverage](https://codecov.io/gh/MomX/MomX/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/MomX?branch=master) |
-| Momit    | [go](https://momx.github.io/Momit/)  | [go](https://github.com/MomX/Momit)    | [![Travis build status](https://travis-ci.org/MomX/Momit.svg?branch=master)](https://travis-ci.org/MomX/Momit)       | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momit.svg)](https://github.com/MomX/Momit/commits/master) |  [![Codecov test coverage](https://codecov.io/gh/MomX/Momit/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momit?branch=master) |
-| Momacs   | [go](https://momx.github.io/Momacs/)  | [go](https://github.com/MomX/Momacs)   | [![Travis build status](https://travis-ci.org/MomX/Momacs.svg?branch=master)](https://travis-ci.org/MomX/Momacs)     | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momacs.svg)](https://github.com/MomX/Momacs/commits/master) | - |
-| Momocs2  | [go](https://momx.github.io/Momocs2/)  | [go](https://github.com/MomX/Momocs2)  | [![Travis build status](https://travis-ci.org/MomX/Momocs2.svg?branch=master)](https://travis-ci.org/MomX/Momocs2)   | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momocs2.svg)](https://github.com/MomX/Momocs2/commits/master) |  [![Codecov test coverage](https://codecov.io/gh/MomX/Momocs2/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momocs2?branch=master) |
-| Momstats | [go](https://momx.github.io/Momstats/)  | [go](https://github.com/MomX/Momstats) | [![Travis build status](https://travis-ci.org/MomX/Momstats.svg?branch=master)](https://travis-ci.org/MomX/Momstats) | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momstats.svg)](https://github.com/MomX/Momstats/commits/master) |  [![Codecov test coverage](https://codecov.io/gh/MomX/Momstats/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momstats?branch=master) |
-| Momdata  | [go](https://momx.github.io/Momdata/)| [go](https://github.com/MomX/Momdata)  | [![Travis build status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata)   | [![Last commit](https://img.shields.io/github/last-commit/MomX/Momdata.svg)](https://github.com/MomX/Momdata/commits/master) |  [![Codecov test coverage](https://codecov.io/gh/MomX/Momdata/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momdata?branch=master) |
+| name | website | github | cran | passing |
+| ---- | ------- | ------ | ---- | ----------- |
+| Momoshop | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momoshop) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momoshop) | ![CRAN](https://www.r-pkg.org/badges/version/Momoshop) | ![R-CMD-check](https://github.com/MomX/Momoshop/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momocs2 | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs2) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs2) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs2) | ![R-CMD-check](https://github.com/MomX/Momocs2/actions/workflows/R-CMD-check.yaml/badge.svg) |
 
+### Not yet on Github
 
-> More on [Travis MomX dashboard](https://travis-ci.org/github/MomX)
+| name | website | github | cran | passing |
+| ---- | ------- | ------ | ---- | ----------- |
+| MomX | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/MomX) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/MomX) | ![CRAN](https://www.r-pkg.org/badges/version/MomX) | ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momacs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momacs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momacs) | ![CRAN](https://www.r-pkg.org/badges/version/Momacs) | ![R-CMD-check](https://github.com/MomX/Momacs/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momit | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momit) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momit) | ![CRAN](https://www.r-pkg.org/badges/version/Momit) | ![R-CMD-check](https://github.com/MomX/Momit/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momstats | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momstats) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momstats) | ![CRAN](https://www.r-pkg.org/badges/version/Momstats) | ![R-CMD-check](https://github.com/MomX/Momstats/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momdata | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momdata) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momdata) | ![CRAN](https://www.r-pkg.org/badges/version/Momdata) | ![R-CMD-check](https://github.com/MomX/Momdata/actions/workflows/R-CMD-check.yaml/badge.svg) |
