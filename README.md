@@ -12,7 +12,6 @@
 
 | name | website | github | cran | passing |
 | ---- | ------- | ------ | ---- | ----------- |
- ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momit | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momit) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momit) | ![CRAN](https://www.r-pkg.org/badges/version/Momit) | ![R-CMD-check](https://github.com/MomX/Momit/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momstats | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momstats) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momstats) | ![CRAN](https://www.r-pkg.org/badges/version/Momstats) | ![R-CMD-check](https://github.com/MomX/Momstats/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momdata | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momdata) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momdata) | ![CRAN](https://www.r-pkg.org/badges/version/Momdata) | ![R-CMD-check](https://github.com/MomX/Momdata/actions/workflows/R-CMD-check.yaml/badge.svg) |
