@@ -3,7 +3,7 @@
 
 | name | website | github | cran | passing |
 | ---- | ------- | ------ | ---- | ----------- |
-| MomX | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/MomX) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/MomX) | ![CRAN](https://www.r-pkg.org/badges/version/MomX) |
+| MomX | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/MomX) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/MomX) | ![CRAN](https://www.r-pkg.org/badges/version/MomX) | ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momoshop | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momoshop) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momoshop) | ![CRAN](https://www.r-pkg.org/badges/version/Momoshop) | ![R-CMD-check](https://github.com/MomX/Momoshop/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momacs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momacs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momacs) | ![CRAN](https://www.r-pkg.org/badges/version/Momacs) | ![R-CMD-check](https://github.com/MomX/Momacs/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momocs2 | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs2) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs2) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs2) | ![R-CMD-check](https://github.com/MomX/Momocs2/actions/workflows/R-CMD-check.yaml/badge.svg) |
@@ -21,4 +21,4 @@
 
 | name | website | github | cran | passing |
 | ---- | ------- | ------ | ---- | ----------- |
-| Momocs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs) |
+| Momocs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs) | ![R-CMD-check](https://github.com/MomX/Momocs/actions/workflows/R-CMD-check.yaml/badge.svg) |
