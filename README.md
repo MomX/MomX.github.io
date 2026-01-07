@@ -21,5 +21,5 @@
 
 | name | website | github | cran | passing |
 | ---- | ------- | ------ | ---- | ----------- |
- ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momocs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs) |
