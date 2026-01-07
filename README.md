@@ -2,7 +2,7 @@
 
 * This page will be MomX landing page when it will be ready. For now it's a dev dashboard.
 
-* Momocs is retiring, but still alive: [https://momx.github.io/Momocs]()
+* Momocs is retiring, but still alive: [https://momx.github.io/Momocs](https://momx.github.io/Momocs)
 
 ### On GitHub
 
