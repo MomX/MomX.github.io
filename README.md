@@ -1,6 +1,5 @@
 ---
 output: github_document
-title: "MomX development"
 ---
 
 ### On GitHub
