@@ -3,10 +3,6 @@ output: github_document
 title: "MomX development"
 ---
 
-* This page will be MomX landing page when it will be ready. For now it's a dev dashboard.
-
-* Momocs is retiring, but still alive: [https://momx.github.io/Momocs](https://momx.github.io/Momocs)
-
 ### On GitHub
 
 | name | website | github | cran | passing |
@@ -24,3 +20,10 @@ title: "MomX development"
 | Momit | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momit) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momit) | ![CRAN](https://www.r-pkg.org/badges/version/Momit) | ![R-CMD-check](https://github.com/MomX/Momit/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momstats | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momstats) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momstats) | ![CRAN](https://www.r-pkg.org/badges/version/Momstats) | ![R-CMD-check](https://github.com/MomX/Momstats/actions/workflows/R-CMD-check.yaml/badge.svg) |
 | Momdata | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momdata) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momdata) | ![CRAN](https://www.r-pkg.org/badges/version/Momdata) | ![R-CMD-check](https://github.com/MomX/Momdata/actions/workflows/R-CMD-check.yaml/badge.svg) |
+
+### Will be retired soon
+
+| name | website | github | cran | passing |
+| ---- | ------- | ------ | ---- | ----------- |
+ ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg) |
+| Momocs | [![website](https://img.shields.io/badge/docs-online-blue)](https://momx.github.io/Momocs) | [![code](https://img.shields.io/badge/code-GitHub-black)](https://github.com/MomX/Momocs) | ![CRAN](https://www.r-pkg.org/badges/version/Momocs) |
