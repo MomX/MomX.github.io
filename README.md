@@ -1,6 +1,10 @@
 MomX dev dashboard
 ================
 
+
+If you want to get in touch, contribute, collaborate, fund MomX please
+send me a :love_letter: at: <bonhomme.vincent@gmail.com>
+
 | name     | website                                                                                    | github                                                                                  | last_commit                                                        | cran                                                   | passing                                                                                       |
 |----------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | MomX     | [![website](https://img.shields.io/badge/website-0077B6)](https://momx.github.io/MomX)     | [![code](https://img.shields.io/badge/github-0077B6)](https://github.com/MomX/MomX)     | ![commit](https://img.shields.io/github/last-commit/MomX/MomX)     | ![CRAN](https://www.r-pkg.org/badges/version/MomX)     | ![R-CMD-check](https://github.com/MomX/MomX/actions/workflows/R-CMD-check.yaml/badge.svg)     |
@@ -23,13 +27,9 @@ MomX dev dashboard
 
 ## Projects
 
-- :art: Momdata: nice datasets to play with
-- :bank: Mombank: a participative list of published data
-- :star: Momecs: a shiny explorer on top of MomX
-- :sheep: Momfarm: breed, evolve and simulate shapes
-- :blue_book: Mombook: all docs in one place
+- 🎨 Momdata: nice datasets to play with
+- 🏛️ Mombank: a participative list of published data
+- ⭐ Momecs: a shiny explorer on top of MomX
+- 🐑 Momfarm: breed, evolve and simulate shapes
+- 📘 Mombook: all docs in one place
 
-## You can ring my bell
-
-If you want to get in touch, contribute, collaborate, fund MomX please
-send me a :love_letter: at: <bonhomme.vincent@gmail.com>
