@@ -1,5 +1,5 @@
 If you want to get in touch, contribute, collaborate, fund MomX please
-send me a :love_letter: at: <bonhomme.vincent@gmail.com>
+send me a 💌 at: <bonhomme.vincent@gmail.com>
 
 MomX dev dashboard
 ================
