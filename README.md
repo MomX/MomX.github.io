@@ -1,7 +1,7 @@
 If you want to get in touch, contribute, collaborate, fund MomX please
 send me a 💌 at: <bonhomme.vincent@gmail.com>
 
-MomX dev dashboard
+## Core
 ================
 
 | name     | website                                                                                    | github                                                                                  | last_commit                                                        | cran                                                   | passing                                                                                       |
