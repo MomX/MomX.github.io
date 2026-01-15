@@ -1,5 +1,6 @@
-If you want to get in touch, contribute, collaborate, fund MomX please
-send me a 💌 at: <bonhomme.vincent@gmail.com>
+![all_them_all](all_them_all.png)
+
+If you want to get in touch, contribute, collaborate, fund MomX please send me a 💌 at: [bonhomme.vincent\@gmail.com](mailto:bonhomme.vincent@gmail.com){.email}
 
 ## Core
 
@@ -25,9 +26,8 @@ send me a 💌 at: <bonhomme.vincent@gmail.com>
 
 ## Projects
 
-- 🎨 Momdata: nice datasets to play with
-- 🏛️ Mombank: a participative list of published data
-- ⭐ Momecs: a shiny explorer on top of MomX
-- 🐑 Momfarm: breed, evolve and simulate shapes
-- 📘 Mombook: all docs in one place
-
+-   🎨 Momdata: nice datasets to play with
+-   🏛️ Mombank: a participative list of published data
+-   ⭐ Momecs: a shiny explorer on top of MomX
+-   🐑 Momfarm: breed, evolve and simulate shapes
+-   📘 Mombook: all docs in one place
